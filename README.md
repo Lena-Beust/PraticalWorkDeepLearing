@@ -1,3 +1,5 @@
+_HES-SO MASTER - Computer Science - 2026_
+
 13 practical works of Deep Learning form HES-SO Master at Lausanne (Switzerland) in Spring 2026 : 
 - 1 : Deep Learning Intro and Notion of Tensors
 - 2 : Gradient Descent
